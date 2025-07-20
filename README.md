@@ -56,17 +56,17 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis de GitHub
 
-<p align="center">
-  <a href="https://github.com/MrBaiper">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrBaiper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MrBaiper">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrBaiper&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<div align="Center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBaiper&theme=dark&hide_border=true"/>
-</p>
+| Estadísticas | Racha |
+| ------------- | ------------- |
+| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=MrBaiper&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![Racha](https://github-readme-streak-stats.herokuapp.com/?user=MrBaiper&theme=onedark&hide_border=true) 
+
+| Tecnologías |
+| ----------|
+| ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBaiper&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
+</div>
